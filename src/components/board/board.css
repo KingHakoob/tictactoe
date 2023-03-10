@@ -1,0 +1,11 @@
+.status {
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.charStyling {
+    color: rgb(24, 177, 24);
+    font-family: 'SNOT';
+}

@@ -1,0 +1,30 @@
+.chooseModeTitle {
+    padding-top: 2rem;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.chooseModePoison {
+    color: rgb(24, 177, 24);
+    font-family: 'SNOT';
+}
+
+.buttonCol  {
+    padding-top: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.gameModeBtn {
+    background-color: rgb(24, 177, 24);
+    color: #252525;
+    border-color: rgb(24, 177, 24);
+    font-size: 1.5rem;
+}
+
+.gameModeBtn:hover {
+    background-color: #252525;
+    color: rgb(24, 177, 24);
+    border-color: rgb(24, 177, 24);
+}

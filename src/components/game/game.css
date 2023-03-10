@@ -1,0 +1,42 @@
+.gameBoard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.timeTravelBtnCol{
+    padding-top: 5rem;
+}
+
+.timeTravelBtn {
+  width: 60%;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.timeTravelBtn:hover {
+  color: white;
+  background-color: #252525;
+  border-color: white;
+}
+
+.gameSelectCol {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+  margin-right: 27.25rem;
+}
+
+.gameSelectBtn {
+  background-color: rgb(24, 177, 24);
+  color: #252525;
+  border-color: rgb(24, 177, 24);
+  font-size: 1.5rem;
+}
+
+.gameSelectBtn:hover {
+  background-color: #252525;
+  color: rgb(24, 177, 24);
+  border-color: rgb(24, 177, 24);
+}
